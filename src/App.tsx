@@ -7,7 +7,7 @@ export default function App() {
         <h1 className="text-[50pt] leading-tight font-bold text-black m-0">
           Bitman Limited
         </h1>
-        <p className="text-[20pt] leading-[31pt] text-black mt-4">
+        <p className="text-[20pt] leading-[31pt] text-black mt-2">
           Software Development and Consulting
         </p>
         <a href="mailto:bitmanlimited@gmail.com" className="inline-block mt-6 text-black hover:opacity-70">
